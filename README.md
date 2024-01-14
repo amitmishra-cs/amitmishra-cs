@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amitmishra-cs
 - 👀 I’m interested in Web devloper
-- 🌱 I’m currently learning data Science
+- 🌱 I’m Softwere Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
