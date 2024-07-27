@@ -1,4 +1,4 @@
-<img src="C:\Users\Engineer\Downloads\OIP.jpeg"/>
+<img src="https://gulfportal.ae/storage/images/blogs/blogs-1686850463.jpg"/>
 
 <h1 align="center">Hi 👋, I'm Amit Mishra</h1>
 <h3 align="center">"A passionate MERN stack developer who also uses AI/ML to simplify tasks."</h3>
