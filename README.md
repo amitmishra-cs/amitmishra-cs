@@ -1,4 +1,4 @@
-<img src="https://gulfportal.ae/storage/images/blogs/blogs-1686850463.jpg"/>
+<img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/12/2020-In-Review-and-Trends-for-2021-3.jpg"/>
 
 <h1 align="center">Hi 👋, I'm Amit Mishra</h1>
 <h3 align="center">"A passionate MERN stack developer who also uses AI/ML to simplify tasks."</h3>
