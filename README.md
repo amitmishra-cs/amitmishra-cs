@@ -1,7 +1,7 @@
 <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/12/2020-In-Review-and-Trends-for-2021-3.jpg"/>
 
 <h1 align="center">Hi 👋, I'm Amit Mishra</h1>
-<h3 align="center">"Passionate about data science and machine learning, continuously exploring and innovating in the field."</h3>
+<h3 align="center">"I am a passionate data scientist and machine learning enthusiast dedicated to transforming data into actionable insights."</h3>
 <img align="right" alt="Coding" width="400"src="https://media.giphy.com/media/3o6Ygfw40tlnPhX87m/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitmishra-cs&label=Profile%20views&color=0e75b6&style=flat" alt="amitmishra-cs" /> </p>
