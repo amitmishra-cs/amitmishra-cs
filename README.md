@@ -1,4 +1,5 @@
-<img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/12/2020-In-Review-and-Trends-for-2021-3.jpg"/>
+<img src="C:\Users\Engineer\Downloads\OIP.jpeg"/>
+
 <h1 align="center">Hi 👋, I'm Amit Mishra</h1>
 <h3 align="center">"A passionate MERN stack developer who also uses AI/ML to simplify tasks."</h3>
 <img align="right" alt="Coding" width="400"src="https://raw.githubusercontent.com/gist/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif"/>
