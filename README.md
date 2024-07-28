@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/viratamit15" target="blank"><img src="https://img.shields.io/twitter/follow/viratamit15?logo=twitter&style=for-the-badge" alt="viratamit15" /></a> </p>
 
-- 🌱 I’m currently learning **Backend devlopment**
+- 🌱 I’m currently learning **Machine Learning && Deep Learning**
 
-- 💬 Ask me about **Mern**
+- 💬 Ask me about **ML/DL**
 
 - 📫 How to reach me **amitmishravirat45@gmail.com**
 
