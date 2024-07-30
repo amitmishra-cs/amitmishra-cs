@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Amit Mishra</h1>
 <h3 align="center">"I am a passionate data scientist and machine learning enthusiast dedicated to transforming data into actionable insights."</h3>
-<img align="right" alt="Coding" width="500"src="https://www.datanami.com/wp-content/uploads/2021/05/Observable-data-visualization.gif"/>
+<img align="right" alt="Coding" width="700"src="https://www.datanami.com/wp-content/uploads/2021/05/Observable-data-visualization.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitmishra-cs&label=Profile%20views&color=0e75b6&style=flat" alt="amitmishra-cs" /> </p>
 
