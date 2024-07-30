@@ -1,14 +1,14 @@
-<img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/12/2020-In-Review-and-Trends-for-2021-3.jpg"/>
+<img src="https://art-twerks.com/wp-content/uploads/2018/10/ai-head-android-robot-artist.gif"/>
 
 <h1 align="center">Hi 👋, I'm Amit Mishra</h1>
 <h3 align="center">"I am a passionate data scientist and machine learning enthusiast dedicated to transforming data into actionable insights."</h3>
-<img align="right" alt="Coding" width="400"src="https://visme.co/blog/wp-content/uploads/2019/09/information-visualization-3D-Scatter-Plot.gif"/>
+<img align="right" alt="Coding" width="500"src="https://visme.co/blog/wp-content/uploads/2019/09/information-visualization-3D-Scatter-Plot.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitmishra-cs&label=Profile%20views&color=0e75b6&style=flat" alt="amitmishra-cs" /> </p>
 
 <p align="left"> <a href="https://twitter.com/viratamit15" target="blank"><img src="https://img.shields.io/twitter/follow/viratamit15?logo=twitter&style=for-the-badge" alt="viratamit15" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning && Deep Learning**
+- 🌱 I’m currently learning **ML && DL**
 
 - 💬 Ask me about **ML/DL**
 
