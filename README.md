@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="800" src="https://art-twerks.com/wp-content/uploads/2018/10/ai-head-android-robot-artist.gif"/>
+<img align="center" alt="Coding" width="900" src="https://art-twerks.com/wp-content/uploads/2018/10/ai-head-android-robot-artist.gif"/>
 
 <h1 align="center">Hi 👋, I'm Amit Mishra</h1>
 <h3 align="center">"I am a passionate data scientist and machine learning enthusiast dedicated to transforming data into actionable insights."</h3>
