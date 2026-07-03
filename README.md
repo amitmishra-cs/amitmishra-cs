@@ -1,38 +1,250 @@
-<img align="center" alt="Coding" width="900" src="https://art-twerks.com/wp-content/uploads/2018/10/ai-head-android-robot-artist.gif"/>
 <h1 align="center">Hi 👋, I'm Amit Mishra</h1>
-<h3 align="center">I am a passionate data scientist and machine learning enthusiast dedicated to transforming data into actionable insights.</h3>
-<img align="right" alt="Coding" width="500"src="https://visme.co/blog/wp-content/uploads/2019/09/information-visualization-3D-Scatter-Plot.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitmishra-cs&label=Profile%20views&color=0e75b6&style=flat" alt="amitmishra-cs" /> </p>
+<h3 align="center">
+MBA in Infrastructure Management @ Adani University
+</h3>
 
-<p align="left"> <a href="https://twitter.com/viratamit15" target="blank"><img src="https://img.shields.io/twitter/follow/viratamit15?logo=twitter&style=for-the-badge" alt="viratamit15" /></a> </p>
+<h4 align="center">
+Senior Operations Manager | BE Computer Engineering | Infrastructure • Project Management • Business Operations • Financial Modeling
+</h4>
 
-- 🌱 I’m currently learning **ML && DL**
-
-- 📝 I regularly write articles on [https://medium.com/@amitmishravirat45](https://medium.com/@amitmishravirat45)
-
-- 💬 Ask me about **Data Science & Machine Learning**
-
-- 📫 How to reach me **amitmishravirat45@gmail.com**
-
-- ⚡ Fun fact **Play with data📈**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/viratamit15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="viratamit15" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amitmishra55/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amitmishra55/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/amit7050" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/amit7050" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/amitmishra.amitmishra.585559?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/amitmishra.amitmishra.585559?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/mishra_amit._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/mishra_amit._" height="30" width="40" /></a>
-<a href="https://medium.com/@amitmishravirat45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amitmishravirat45" height="30" width="40" /></a>
+<p align="center">
+Building Solutions. Driving Impact.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitmishra-cs&show_icons=true&locale=en&layout=compact" alt="amitmishra-cs" /></p>
+# 👨‍💼 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitmishra-cs&show_icons=true&locale=en" alt="amitmishra-cs" /></p>
+🎓 **MBA in Infrastructure Management** @ **Adani University**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitmishra-cs&" alt="amitmishra-cs" /></p>
+💻 **Bachelor of Engineering (Computer Engineering)**
 
+🏗️ **Senior Operations Manager** experienced in managing large-scale national examinations, government projects, and business operations.
+
+📍 Gujarat, India
+
+🌱 Passionate about:
+
+- Infrastructure Development
+- Smart Cities
+- Project Management
+- Business Strategy
+- Infrastructure Finance
+- Financial Modeling
+- AI in Infrastructure
+- Sustainable Development
+
+🎯 **Career Goal**
+
+To become a strategic Infrastructure & Project Management leader by integrating engineering, technology, finance, and business management to build smarter and sustainable infrastructure.
+
+---
+
+# 💼 Professional Experience
+
+## Senior Operations Manager
+
+Successfully managed end-to-end operations for national entrance examinations, government examinations, and institutional projects.
+
+### Major Examinations Managed
+
+- JEE Main
+- NEET
+- CUET-UG
+- UGC-NET
+- ICAR
+- NMAT
+- VITEEE
+- AIMA MAT
+- Gujarat Government Municipal Examinations (CPT, PPT, PET)
+
+### Key Responsibilities
+
+- End-to-End Operations Management
+- Project Planning & Execution
+- Stakeholder Management
+- Government Coordination
+- Vendor Management
+- Examination Centre Management
+- Team Leadership
+- Client Relationship Management
+- Risk Management
+- Budget Planning
+- Process Optimization
+- Resource Allocation
+
+---
+
+# 🚀 Areas of Interest
+
+🏗 Infrastructure Development
+
+🏙 Smart Cities
+
+🚇 Metro Rail Projects
+
+🚄 Transportation Infrastructure
+
+⚡ EV Charging Infrastructure
+
+🌍 Sustainable Infrastructure
+
+🏢 Real Estate Development
+
+📊 Infrastructure Finance
+
+📈 Financial Modeling
+
+🤖 Artificial Intelligence
+
+📡 Smart Infrastructure
+
+🌐 Digital Transformation
+
+---
+
+# 📚 Currently Learning
+
+- Primavera P6
+- Microsoft Project
+- Power BI
+- BIM (Building Information Modeling)
+- Infrastructure Finance
+- Public Private Partnership (PPP)
+- ESG
+- Data Analytics
+- GIS
+- AI Applications in Infrastructure
+
+---
+
+# 💻 Technical Skills
+
+### Programming
+
+- Python
+
+### Data Analytics
+
+- Advanced Microsoft Excel
+- Power BI
+
+### Project Management
+
+- Primavera P6 (Learning)
+- Microsoft Project (Learning)
+
+### Development Tools
+
+- Git
+- GitHub
+- Microsoft Office
+- PowerPoint
+- Word
+- Excel
+
+---
+
+# 🧠 Core Competencies
+
+- Infrastructure Management
+- Project Management
+- Construction Planning
+- Operations Management
+- Business Operations
+- Financial Modeling
+- Strategic Planning
+- Stakeholder Management
+- Leadership
+- Vendor Management
+- Team Management
+- Budgeting
+- Risk Analysis
+- Process Improvement
+- Cost Optimization
+- Decision Making
+- Problem Solving
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 Certifications (Current & Upcoming)
+
+- Primavera P6
+- Microsoft Project
+- Power BI
+- Financial Modeling
+- Lean Six Sigma
+- BIM Fundamentals
+
+---
+
+# 🎯 Career Objective
+
+To contribute to India's next generation of infrastructure by combining engineering expertise, operational excellence, project management, and digital technologies to deliver impactful and sustainable projects.
+
+---
+
+# 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/amitmishra55/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:amitmishra.im26@adaniuni.ac.in">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+</p>
+
+<p align="center">
+
+📧 **Email:** amitmishra.im26@adaniuni.ac.in
+
+💼 **LinkedIn:** https://www.linkedin.com/in/amitmishra55/
+
+📍 **Location:** Gujarat, India
+
+</p>
+
+---
+
+# 💡 Motto
+
+> **"Building smarter infrastructure through technology, strategy, innovation, and leadership."**
+
+---
+
+<p align="center">
+
+### ⭐ Thank you for visiting my profile!
+
+**Let's connect, collaborate, and build the future together.**
+
+</p>
